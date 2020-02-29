@@ -11,4 +11,6 @@
 
 ## 분류
 ---
-### Etc
+### etc
+
+- 2020.02.29 TIL https://github.com/softmasson/TIL/commit/878da156d6b8f7b1d4a941e30f661219e7d0d6cc
